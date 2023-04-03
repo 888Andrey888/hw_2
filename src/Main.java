@@ -11,6 +11,7 @@ public class Main {
         System.out.println(getString(18, 30));
 
         //ДЗ на сообразительность:
+        System.out.println();
         System.out.println(getString(generateRandomAge(), 30));
     }
 
